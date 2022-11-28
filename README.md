@@ -31,10 +31,7 @@ I got 1000 valid comments for my first bot. = 10
 My bot also creates new submissions, as coded in the botsubmissions.py. By running this file, you get 200 posts, 
 which are all different. Some are text posts, and some are link posts. = 2
 
-My bot will respond to the most upvoted comments. I have included a screenshot of running my bot, only once, on another subreddit that actually had a variety of votes on the comments, unlike most of the submissions in our subreddit. The bot did in fact comment on the most upvoted one. = 2
-
-![Screen Shot 2022-11-19 at 8 42 53 PM](https://user-images.githubusercontent.com/108768418/204231506-b8fac187-8ba4-4802-91cd-e8eb1527539a.png)
-
+My bot will respond to the most upvoted comments. I have included a screenshot of running my bot, only once, on another subreddit that actually had a variety of votes on the comments, unlike most of the submissions in our subreddit. = 2
 
 My bot also upvotes all commments that have match a negative sentiment on Trump, using the TextBlob sentiment analysis library, as seen in bot_upvote.py. = 4
 

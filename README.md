@@ -1,21 +1,17 @@
 # cs40project4
 
 
-A README.md file, properly formatted with markdown syntax, that:
-
-Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. 
-
-Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
-Explains what you believe your score should be. Clearly state which tasks you complete/don't comple
-
 My bot is anti-Trump. 
 Here is a link to one of my favorite comment threads that my bot responded to:
 https://www.reddit.com/r/cs40_2022fall/comments/yz0j52/comment/ixkwx4y/?utm_source=share&utm_medium=web2x&context=3
 
-I thing the "whyyyyyyy" is my funny, and I like that my bot is working properly. 
+I think the "whyyyyyyy" is funny, and I like that my bot is working properly. 
+
+![Screen Shot 2022-11-27 at 9 41 49 PM](https://user-images.githubusercontent.com/108768418/204231409-9db50c99-692a-4bb6-8719-03a265ddf962.png)
 
 Here is the output of running bot counter: 
 
+```
 limit =  1000
 len(comments)= 1000
 len(top_level_comments)= 0
@@ -26,7 +22,7 @@ len(valid_replies)= 1000
 ========================================
 valid_comments= 1000
 ========================================
-
+```
 
 I completed all 6 tasks in the bot.py file.  = 12
 Additionally, I completed my github repo.  = 3
@@ -36,6 +32,9 @@ My bot also creates new submissions, as coded in the botsubmissions.py. By runni
 which are all different. Some are text posts, and some are link posts. = 2
 
 My bot will respond to the most upvoted comments. I have included a screenshot of running my bot, only once, on another subreddit that actually had a variety of votes on the comments, unlike most of the submissions in our subreddit. The bot did in fact comment on the most upvoted one. = 2
+
+![Screen Shot 2022-11-19 at 8 42 53 PM](https://user-images.githubusercontent.com/108768418/204231506-b8fac187-8ba4-4802-91cd-e8eb1527539a.png)
+
 
 My bot also upvotes all commments that have match a negative sentiment on Trump, using the TextBlob sentiment analysis library, as seen in bot_upvote.py. = 4
 

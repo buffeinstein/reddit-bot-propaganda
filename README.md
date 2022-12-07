@@ -38,6 +38,9 @@ My bot also upvotes all commments that have match a negative sentiment on Trump,
 I also trained a Markovify model with an Economist article that critizes Trump and the insurrection, which generates the text of my comments. = 5
 
 Additionally, I created my own extra credit assignment to DM users using the generated text from Markovify, coded in bot_dm.py. I got a QCL tutor to agree to be the recipients of these comments. = 2
+Here is the image he sent me of the dms that he was getting: 
+![image](https://user-images.githubusercontent.com/108768418/206263910-87f8597d-ab3c-493f-a6bd-f37caec4a89a.png)
+
 
 Total points: 40
 
